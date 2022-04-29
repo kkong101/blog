@@ -12,4 +12,8 @@ Vue3(Javascript), Gin(Golang), MongoDB
 5. 프론트 각종 애니메이션 적용해보기 https://tagilog.tistory.com/539
 6. 나의 이력 => 타임라인 및 기술 스택
 7. 댓글 및 대댓글 기능 
-8. 로그인 및 Role 구현
+8. 구글 로그인 및 Role 구현
+9. recaptcha 인증 후 이메일 노출되게
+10. AWS SES을 통한 이메일 전송(댓글)
+11. 카테고리 테그화
+12. 글 작성 시 New 표시
